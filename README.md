@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingsleyIke
-- 👀 I’m interested in Everything Moblie (Android)
+- 👀 I’m interested in Everything Moblie (Android), Augmenteed Reality
 - 🌱 I’m currently learning Java Backend
 - 💞️ I’m looking to collaborate on Java and android projects
 - 📫 How to reach me https://www.linkedin.com/in/kingsley-okoye-821314174/
